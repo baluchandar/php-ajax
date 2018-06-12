@@ -1,1 +1,1 @@
-sd
+all designs images are stored in this directory
